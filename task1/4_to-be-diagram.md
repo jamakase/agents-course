@@ -1,3 +1,6 @@
+# TO-BE Диаграмма автоматизированного процесса производства контента
+
+```mermaid
 sequenceDiagram
     %% PARTICIPANTS
     participant SMM as SMM-менеджер
@@ -156,3 +159,4 @@ sequenceDiagram
         Автоматизация: №19
 
     SMM->>SMM: Финальная корректировка плана
+```
